@@ -1,0 +1,6 @@
+com\github\model\Transaction.class
+com\github\WordCountV2.class
+com\github\FavoriteColor.class
+com\github\BankBalance.class
+com\github\model\Transaction$TransactionBuilder.class
+com\github\serdes\JsonSerde.class
